@@ -6,4 +6,4 @@ Só um texto de um desenhista, apenas
 
 ## objetivo
 
-n parar de desenha 
+não parar de desenha 
